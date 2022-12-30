@@ -1,0 +1,146 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-countainer {
+    background-color: #DEFCF9;
+    position: relative;
+    padding-top: 155px;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    width: 200px;
+}
+.sun {
+    position: absolute;
+    left: 330px;
+    top: 10px;    
+    width: 200px;
+}
+.bottom-cloud {
+    position: absolute;
+    top: 250;
+    left: 400px;
+    width: 150px;
+}
+.mountain {
+    margin-top: 35px;
+}
+
+.vannes-icon {
+    margin: 50px;
+}
+.middle-container {
+    background-color: #C3BEF0;
+}
+
+.profile {
+    padding: 50px;
+    background-color: #CADEFC;
+}
+hr {
+    position: relative;
+    top: 20px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #e1f0e6;
+    border-width: 10px;
+    height: 0px;
+    width: 7%;
+    margin: 0 auto;
+}
+.skills {
+    padding: 50px;
+    background-color: #C3BEF0;
+}
+.skill-row {
+    padding: 50px;
+    background-color: #C3BEF0;
+}
+.skill-img {
+    width: 300px;
+}
+.top-cloud1 {
+    position: absolute;
+    top: 1520px;
+    left: 150px;
+    width: 200px;
+}
+.bottom-cloud1 {
+    position: absolute;
+    top: 1800px;
+    right: 60px;
+    width: 300px;
+}
+.moon {
+    position: absolute;
+    top: 1300px;
+    left: 50px;
+    width: 300px;
+}
+
+.bottom-container {
+    background-color: #CCA8E9;
+    padding-top: 50px;
+    height: 110px;
+}
+.contact-me {
+    padding: 50px;
+    background-color: #CCA8E9;
+}
+a:link {
+    margin: 0px 20px;
+    color: #FFFFD0;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #FFFFD0;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #F3CCFF;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: #FFFFD0;
+    background-color: transparent;
+    text-decoration: none;
+}
+.cipt {
+    position: relative;
+    top: 20px;
+}
+.ocean {
+    position: absolute;
+    bottom: -50px;
+    left: 0px;
+    width: 300px;
+}
+.m-ocean {
+    position: absolute;
+    bottom: -50px;
+    right: 0px;
+    width: 300px;
+}
